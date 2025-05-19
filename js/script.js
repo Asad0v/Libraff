@@ -354,7 +354,7 @@ window.showDet  = async (id, num) => {
     }
     await patchSold(id, obj)
     await getData()
-    window.location.href = `http://127.0.0.1:5500/details.htm?id=${id}`
+    window.location.href = `https://my-libraff-byrashid.vercel.app/details.htm?id=${id}`
 }
 let status = false
 const heartI = document.getElementById('heartI')
@@ -404,16 +404,16 @@ function highlightFavorites() {
 }
 
 window.showKlassiks = () => {
-    window.location.href = `http://127.0.0.1:5500/klassikler.htm`
+    window.location.href = `https://my-libraff-byrashid.vercel.app/klassikler.htm`
 }
 window.showBasketPage = ()=>{
- window.location.href =`http://127.0.0.1:5500/basket.htm`
+ window.location.href =`https://my-libraff-byrashid.vercel.app/basket.htm`
 }
 window.showWishListpage = ()=>{
- window.location.href =`http://127.0.0.1:5500/wishlist.htm`
+ window.location.href =`https://my-libraff-byrashid.vercel.app/wishlist.htm`
 }
 window.showAuthorsPage = () =>{
-    window.location.href =`http://127.0.0.1:5500/authors.htm`
+    window.location.href =`https://my-libraff-byrashid.vercel.app/authors.htm`
 }
 
 const basketCount = document.getElementById('basketCount')

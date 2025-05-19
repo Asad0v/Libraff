@@ -191,9 +191,9 @@ window.printAuthors = () => {
 
 window.showKlassik = function(author) {
     
-    window.location.href = `http://127.0.0.1:5500/klassikler.htm?author=${author}`
+    window.location.href = `https://my-libraff-byrashid.vercel.app/klassikler.htm?author=${author}`
 }
 window.showBasketPage = ()=>{
         
- window.location.href =`http://127.0.0.1:5500/basket.htm`
+ window.location.href =`https://my-libraff-byrashid.vercel.app/basket.htm`
 }

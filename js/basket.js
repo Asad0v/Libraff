@@ -179,7 +179,7 @@ document.getElementById('clearBasketBtn').addEventListener('click', function () 
 
 
 window.toMainPage = () =>{
-    window.location.href = `http://127.0.0.1:5500/index.htm`
+    window.location.href = `https://my-libraff-byrashid.vercel.app/index.htm`
 }
 
 window.confirmOrder = async function () {
