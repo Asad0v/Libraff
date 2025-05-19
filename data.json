@@ -1,0 +1,1051 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Seçilmiş Əsərləri",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/7bb4b02e-faef-11ed-a519-503eaa120fc7_1.jpg.webp",
+            "price": "9 ₼",
+            "content": "Bu kitabda dahi rus yazıçısı Lev Tolstoyun həyat və yaradıcılığı ilə bağlı məlumat verilib, ilk dəfə olaraq ölümündən sonra çap edilən bəzi əsərləri yer alıb. Lev Tolstoy Hərb və sülh, Anna Karenina kimi əsərləri ilə dünya səviyyəsində şöhrət qazansa da, özü İblis və Sergi ata əsərlərinə daha çox üstünlük verib.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Bioqrafiya, avtobioqrafiya & Xatirə"
+            ],
+            "language": [
+                "AZ",
+                "TUR",
+                "EN",
+                "RU"
+            ],
+            "stockCount": 4,
+            "soldCount": 2,
+            "view": 0,
+            "comments": [
+                {
+                    "id": 101,
+                    "text": "Çox təsirli hekayədir."
+                },
+                {
+                    "id": 102,
+                    "text": "Qoqolun üslubu həmişə heyranedici olub."
+                },
+                {
+                    "id": 103,
+                    "text": "Oxumağa dəyər."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Lev Tolstoy",
+                "Nəşriyyat................Qədim Qala",
+                "Səhifə................sayı 200"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Anna Karenina",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "24.90 ₼",
+            "content": "Lev Tolstoyun şah əsərlərindən olan “Anna Karenina” ailə dramı, sevgi, cəmiyyət və mənəvi dəyərlər kimi mürəkkəb mövzuları əhatə edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN"
+            ],
+            "stockCount": 8,
+            "soldCount": 15,
+            "view": 95,
+            "comments": [
+                {
+                    "id": 201,
+                    "text": "Dünya ədəbiyyatının ən böyük romanlarından biri."
+                },
+                {
+                    "id": 202,
+                    "text": "Hər dəfə oxuduqca yeni şeylər kəşf edirəm."
+                },
+                {
+                    "id": 203,
+                    "text": "Mütləq oxunmalıdır."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................TUR",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................İş Bankası Kültür Yayınları",
+                "Səhifə................sayı 1062"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Balaca Şahzadə",
+            "author": "Antuan Dö Sent Ekzüperi",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/9789952517007_1.jpg.webp",
+            "price": "3.00 ₼",
+            "content": "Antuan de Sent-Ekzüperinin həm uşaqlar, həm də böyüklər üçün yazdığı bu fəlsəfi nağıl dostluq, sevgi, həyatın mənası kimi dərin mövzulara toxunur.",
+            "category": "Uşaq ədəbiyyatı",
+            "subcategory": [
+                "Nağıllar"
+            ],
+            "language": [
+                "AZ",
+                "TR",
+                "EN",
+                "RU"
+            ],
+            "stockCount": 22,
+            "soldCount": 45,
+            "view": 180,
+            "comments": [
+                {
+                    "id": 301,
+                    "text": "Həmişə aktual olan bir hekayə."
+                },
+                {
+                    "id": 302,
+                    "text": "Sadə, lakin dərin mənalar."
+                },
+                {
+                    "id": 303,
+                    "text": "Hər yaşda oxumaq üçün gözəl kitab."
+                }
+            ],
+            "feature": [
+                "Cild................Мягкая обложка",
+                "Dil................AZE",
+                "Müəllif................Antuan Dö Sent Ekzüperi",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................sayı 154"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Uçan Sinif",
+            "author": "Erix Kestner",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/664c21c2-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "13.90 ₼",
+            "content": "Erix Kestnerin yazdığı bu macəra dolu uşaq romanı internat məktəbində oxuyan bir qrup oğlanın dostluqlarını, çətinlikləri və əyləncəli anlarını təsvir edir.",
+            "category": "Uşaq ədəbiyyatı",
+            "subcategory": [
+                "Macəra"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 18,
+            "soldCount": 30,
+            "view": 110,
+            "comments": [
+                {
+                    "id": 401,
+                    "text": "Uşaqlığımın ən sevimli kitablarından biri."
+                },
+                {
+                    "id": 402,
+                    "text": "Dostluq və macəra dolu."
+                },
+                {
+                    "id": 403,
+                    "text": "Övladlarım üçün də aldım."
+                }
+            ],
+            "feature": [
+                "Cild................Мягкая обложка",
+                "Dil................TUR",
+                "Müəllif................ERICH KASTNER",
+                "Nəşriyyat................Can Yayınları",
+                "Səhifə................191"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Səfillər",
+            "author": "Viktor Hüqo",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5e1c96dc-0686-11ed-a509-503eaa120fc7_1.jpg.webp",
+            "price": "14.90 ₼",
+            "content": "Viktor Hüqonun monumental əsəri olan “Səfillər” XIX əsrin Fransa cəmiyyətinin həyatını, insan talelərini, ədalətsizliklə mübarizəni epik bir şəkildə təsvir edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "FR"
+            ],
+            "stockCount": 5,
+            "soldCount": 12,
+            "view": 75,
+            "comments": [
+                {
+                    "id": 501,
+                    "text": "Çox güclü və təsirli roman."
+                },
+                {
+                    "id": 502,
+                    "text": "İnsanlığın ən böyük dərslərindən."
+                },
+                {
+                    "id": 503,
+                    "text": "Bir neçə dəfə oxumuşam."
+                }
+            ],
+            "feature": [
+                "Cild................bərk",
+                "Dil................AZE",
+                "Müəllif................Viktor Hüqo",
+                "Nəşriyyat................Teas Press",
+                "Səhifə................768",
+                "Yaş................16+"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Don Kixot",
+            "author": "Migel de Servantes",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/80f5d4e7-bf40-11ed-a519-503eaa120fc7_1.jpg.webp",
+            "price": "6.50 ₼",
+            "content": "Migel de Servantesin şah əsəri olan “Don Kixot” cəngavər romanlarının parodiyası olmaqla yanaşı, insan xarakterinin dərinliklərinə də nüfuz edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Klassik ədəbiyyat",
+                "Satira"
+            ],
+            "language": [
+                "AZ",
+                "ES",
+                "EN"
+            ],
+            "stockCount": 10,
+            "soldCount": 20,
+            "view": 105,
+            "comments": [
+                {
+                    "id": 601,
+                    "text": "Ədəbiyyatın ən böyük klassiklərindən."
+                },
+                {
+                    "id": 602,
+                    "text": "Həm gülməli, həm də düşündürücü."
+                },
+                {
+                    "id": 603,
+                    "text": "Mütləq oxuyun!"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE/ENG",
+                "Müəllif................Migel De Servantes",
+                "Nəşriyyat................Logos",
+                "Səhifə................120"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Şəhriyar",
+            "author": "Məhəmməd Hüseyn Şəhriyar",
+            "img": "https://www.libraff.az/images/from_1c/5c106274-5050-11eb-a4d2-503eaa128442_1.jpg",
+            "price": "8.50 ₼",
+            "content": "Seyid Məhəmmədhüseyn Behcət Təbrizi (Məhəmmədhüseyn Şəhriyar) (1906-1988) Təbriz şəhərinin Bağmeşə bölgəsində, hüquqşünas Hacı Mirağa Xoşginabinin ailəsində dün 'Yay'a gəlmişdir. Şəhriyar Təbrizdə orta 'Təhsil' almış, Tehran Universitetinin tibb fakültəsini bitirmişdir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Poeziya",
+                "Satira"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 25,
+            "soldCount": 35,
+            "view": 150,
+            "comments": [
+                {
+                    "id": 701,
+                    "text": "Sabirin satiralari hələ də aktualdır."
+                },
+                {
+                    "id": 702,
+                    "text": "Dilinin sadəliyinə baxmayaraq dərin mənalar daşıyır."
+                },
+                {
+                    "id": 703,
+                    "text": "Hər bir azərbaycanlı oxumalıdır."
+                }
+            ],
+            "feature": [
+                "Cild................Мягкая обложка",
+                "Dil................AZE",
+                "Müəllif................Məhəmməd Hüseyn Şəhriyar",
+                "Nəşriyyat................Kitab Klubu",
+                "Səhifə................440"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Yevgeni Onegin",
+            "author": "Aleksandr Puşkin",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5adec366-6f96-11ec-a4fd-503eaa120fc7_1.jpg.webp",
+            "price": "7.00 ₼",
+            "content": "Aleksandr Puşkinin məşhur mənzum romanı “Yevgeni Onegin” XIX əsrin rus cəmiyyətinin həyatını, sevgi və dostluq münasibətlərini təsvir edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Poeziya",
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 12,
+            "soldCount": 18,
+            "view": 85,
+            "comments": [
+                {
+                    "id": 801,
+                    "text": "Rus ədəbiyyatının incisi."
+                },
+                {
+                    "id": 802,
+                    "text": "Puşkinin dili möhtəşəmdir."
+                },
+                {
+                    "id": 803,
+                    "text": "Təkrar-təkrar oxuya bilərəm."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE/ENG",
+                "Müəllif................Aleksandr Sergeyeviç Puşkin",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................216"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Kiçik Qara Balıq",
+            "author": "Səməd Behrəngi",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/bf75c719-20fa-11f0-a56c-503eaa120fc7_1.jpg.webp",
+            "price": "3.50 ₼",
+            "content": "Səməd Behrənginin yazdığı bu məşhur uşaq hekayəsi öz kiçik dünyasından çıxıb böyük okeanı kəşf etmək istəyən cəsur bir balığın macəralarını nəql edir.",
+            "category": "Uşaq ədəbiyyatı",
+            "subcategory": [
+                "Hekayələr"
+            ],
+            "language": [
+                "AZ",
+                "TR"
+            ],
+            "stockCount": 30,
+            "soldCount": 50,
+            "view": 200,
+            "comments": [
+                {
+                    "id": 901,
+                    "text": "Çox mənalı və düşündürücü bir uşaq hekayəsi."
+                },
+                {
+                    "id": 902,
+                    "text": "Uşaqlar üçün əla seçimdir."
+                },
+                {
+                    "id": 903,
+                    "text": "Mən də uşaq vaxtı çox sevirdim."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Müəllif................SƏMƏD BEHRƏNGI",
+                "Nəşriyyat................Mücrü Nəşriyyatı",
+                "Səhifə................28"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Siz möhtəşəmsiniz",
+            "author": "Metyu Syed",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/26515e1e-7dc8-11ec-a4fd-503eaa120fc7_1.jpg.webp",
+            "price": "6.90 ₼",
+            "content": "ƏGƏR İSTƏNİLƏN SAHƏDƏ MÖHTƏŞƏM OLSANIZ, NƏ BAŞ VERƏR? Bu sizin təsəvvür etdiyiniz kimi əlçatmaz iş deyil. Əgər siz aşağıdakı kimi düşünürsünüzsə... • Riyaziyyatla məşğul olmaq üçün xüsusi növ beyin lazımdır; • İdmanda ya istedadlısınız, ya da ki yox; • Bədənimdə musiqini duyan sümük yoxdur ...o halda bilin ki, bu kitabı sizin üçün yazmışam. Sizin irəli getməyinizə mane olan inanclarınıza meydan oxumaq üçün yazmışam. Doğru düşüncəniz sizə istənilən sahədə uğur qazanmağa, xəyallarınızı gerçəkləşdirməyə kömək edə bilər. MƏN BİLİRƏM Kİ, bunu bacararsınız. Necə? Məsələn, mən özüm anadan idmançı doğulmasam da, ikiqat olimpiya çempionuyam. Bəs heç bilirsiniz, sizin bu işi bacaracağınızı haradan bilirəm? ÇÜNKİ SİZ MÖHTƏŞƏMSİNİZ.",
+            "category": "Elmi-kütləvi ədəbiyyat",
+            "subcategory": [
+                "Kitab",
+                "Qeyri-bədii uşaq ədəbiyyatı",
+                "Şəxsi İnkişaf"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 15,
+            "soldCount": 25,
+            "view": 130,
+            "comments": [
+                {
+                    "id": 1001,
+                    "text": "Düşünürəmki motivasiya üçün yaxşı kitabdır"
+                },
+                {
+                    "id": 1002,
+                    "text": "Hər bir ziyalı üçün faydalı kitab."
+                },
+                {
+                    "id": 1003,
+                    "text": "Çox aydın və anlaşıqlı yazılıb."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Metyu Syed",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................160"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Diriliş",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/32e82a63-85c4-11ed-a513-503eaa120fc7_1.jpg.webp",
+            "price": "12.90 ₼",
+            "content": "L. Tolstoyun mənəvi axtarışlarını əks etdirən bu roman insan təbiətinin dərinliklərinə nüfuz edir...",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 7,
+            "soldCount": 5,
+            "view": 3,
+            "comments": [
+                {
+                    "id": 1004,
+                    "text": "Doğurdan da möhtəşə bir əsərdir!"
+                }
+            ],
+            "feature": [
+                "Dil................TUR",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................İş Bankası Kültür Yayınları",
+                "Səhifə................637"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Hərb və Sülh (I cild)",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/4a0bd9de-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "15.40 ₼",
+            "content": "Rus cəmiyyətinin Napoleon müharibələri dövründəki həyatını təsvir edən monumental əsər...",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Tarixi roman"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 3,
+            "soldCount": 8,
+            "view": 10,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................1024"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Hərb və Sülh (II cild)",
+            "author": "Lev Tolstoy",
+            "img": "https://kitabevim.az/wp-content/uploads/2021/05/1f82414ea443ec87cc227581eca18169.jpg",
+            "price": "15 ₼",
+            "content": "Dünya ədəbiyyatında özünəməxsus yeri olan məşhur rus yazıçısı L.N.Tolstoyun 1804-1807 və 1812-1813-cü illər rus-fransız müharibələrinə həsr olunmuş “Hərb və sülh” romanında ədibin bədii dühasının xəlqiliyi tam vüsətlə öz əksini tapıb. Romanın ikinci hissəsi də əvvəlki hissədə olduğu kimi gərgin hadisələr, münaqişələr və sevgi epizodları ilə zəngindir. Vətənpərvərlik və xəyanət, ziddiyyətli insan xarakterləri, həyatın bədii boyalarla və rəngarəng təsvirləri bir daha böyük Tolstoy irsinə məxsus keyfiyyətləri təsdiq edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Tarixi roman"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 5,
+            "soldCount": 6,
+            "view": 7,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................1024"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Anna Karenina (I cild)",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "12 ₼",
+            "content": "Ailə dramı, sevgi və cəmiyyətin mənəvi dəyərlərini əks etdirən məşhur roman...",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN"
+            ],
+            "stockCount": 8,
+            "soldCount": 15,
+            "view": 95,
+            "comments": [
+                {
+                    "text": "Hələk rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Dil................TUR",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................İş Bankası Kültür Yayınları",
+                "Səhifə................1062"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Anna Karenina (II cild)",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b39a7ef2-504c-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "23.90 ₼",
+            "content": "Anna Karenina is a novel of unparalleled richness and complexity, set against the backdrop of Russian high society. Tolstoy charts the course of the doomed love affair between Anna, a beautiful married woman, and Count Vronsky, a wealthy army officer who pursues Anna after becoming infatuated with her at a ball. Although she initially resists his charms Anna eventually succumbs, falling passionately in love and setting in motion a chain of events that lead to her downfall. In this extraordinary novel Tolstoy seamlessly weaves together the lives of dozens of characters, while evoking a love so strong that those who experience it are prepared to die for it.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN"
+            ],
+            "stockCount": 6,
+            "soldCount": 10,
+            "view": 60,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Paperback",
+                "Dil................ENG",
+                "Müəllif................LEO TOLSTOY",
+                "Nəşriyyat................Vintage Classics",
+                "Səhifə................992"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "İblis",
+            "author": "Lev Tolstoy",
+            "img": "https://images.penguinrandomhouse.com/cover/9781612192321",
+            "price": "3.49 ₼",
+            "content": "Dahi yazar Lev Tolstoy “Şeytan” povestində – əksər əsərlərində olduğu kimi gördüyü, duyduğu, mənimsədiyi həyatı məsələləri ön plana çəkmişdir. Povestin mövzusunun real həyatdan götürülməsi onu daha da özünəməxsus ştrixlərlə zənginləşdirən cəhətlərdəndir. Əsərin qəhrəmanı Yevgeni müəllifin hisslərini oxucuya təqdim edən vasitədir. Əsər boyu müəllif bu obrazın gücü, köməyi ilə Şeytana qarşı mübarizə aparır. Bəs şeytanla insanın amansız mübarizəsində sonda qalib gəlirmi?",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Povest"
+            ],
+            "language": [
+                "AZ",
+                "TUR",
+                "RU"
+            ],
+            "stockCount": 12,
+            "soldCount": 3,
+            "view": 15,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................96"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sergi Ata",
+            "author": "Lev Tolstoy",
+            "img": "https://www.qanun.az/images/news/compressed/240x370/2021-09-14-10-39-351631601575.jpg?v=1",
+            "price": "2.99 ₼",
+            "content": "Dünyəvi həyatdan uzaqlaşıb dinə sığınan bir insanın mənəvi yüksəliş və enişlərini təsvir edən povest...",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Povest"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 9,
+            "soldCount": 7,
+            "view": 20,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................80"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Kavkaz Əsiri",
+            "author": "Aleksandr Puşkin",
+            "img": "https://www.qanun.az/images/news/compressed/240x360/2021-09-10-14-25-591631269559.jpg?v=1",
+            "price": "3.99 ₼",
+            "content": "A.S.Puşkin öz üsyankar şeirlərinə görə Cə­nuba sürgün ediləndən sonra məş­hur «Cənub poe­ma­ları»nı yazmışdır. Bu sil­si­lə­dən olan poemaların birincisi «Qafqaz əsi­ri»dir. Əsər şairin sürgün illərində öz yaşadıqlarının bədii təsviridir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Hekayə"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 18,
+            "soldCount": 12,
+            "view": 30,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Aleksandr Puşkin",
+                "Nəşriyyat................Qanun nəşriyyatı",
+                "Səhifə................80"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Hacı Murat",
+            "author": "Lev Tolstoy",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/481f8397-3769-11ee-a519-503eaa120fc7_1.jpg.webp",
+            "price": "4.90 ₼",
+            "content": "1854´de Kırım Savaşı´na subay olarak katılan Tolstoy, bu döneme dair izlenimlerini Hacı Murat´da bütün canlılığıyla romana aktardı. Savaşan taraflar kadar, egemenler ve uyrukları arasındaki ilişkilerin sergilenişi, kişilerin ve coğrafyanın kusursuz tasviri bu esere güçlü bir gerçeklik duygusu kazandırmaktadır. Tolstoy´un 1896-1904 yılları arasında yazdığı Hacı Murat, ölümünden sonra 1912´de yayımlandı",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Povest",
+                "Tarixi povest"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 11,
+            "soldCount": 9,
+            "view": 25,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Dil................TUR",
+                "Müəllif................Lev Nikolayeviç Tolstoy",
+                "Nəşriyyat................İş Bankası Kültür Yayınları",
+                "Səhifə................165"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Gənc Şerlok. İti bıçaq",
+            "author": "Endyu Leyn",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/d2566ecf-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "3.49 ₼",
+            "content": "'Güclü partlayış... Dəhşətli qətllər, tükürpərdici əməllər, dolaşıq məsələlər, daim ölüm-dirim mübarizəsi və daha nələr, nələr...' - Çarli Hiqson HƏR ƏFSANƏNİN BİR BAŞLANĞICI VAR Gənc Şerlok Holms Qərbi İrlandiyadadır. Lakin tətilə getməyib. Qardaşı Maykroft ölülərlə ünsiyyət qura bildiyini iddia edən və öz xidmətlərini ən yüksək qiymətə satmağa hazırlaşan medium araşdırır. Şerlok, Maykroft və Avropa dövlətlərinin rəsmi nümayəndələri həmin mediumun ölülər dünyasının sirlərini həqiqətən bilib-bilmədiyini dəqiqləşdirməlidir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Detektiv"
+            ],
+            "language": [
+                "AZ",
+                "RU"
+            ],
+            "stockCount": 6,
+            "soldCount": 14,
+            "view": 45,
+            "comments": [
+                {
+                    "text": "Hələki rəy yoxdur"
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................ENDYU LEYN",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................280"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Ustad",
+            "author": "Raqif Raufoğlu",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5ea8cb7f-f3ed-11ee-a54e-503eaa120fc7_1.jpg.webp",
+            "price": "7.92 ₼",
+            "content": "Raqif Raufoğlunun 'Ustad' romanı Azərbaycan tarixinə fərqli yanaşma əsasında qələmə alınıb. Milli və irfani kimlik məsələsinin ön planda olduğu və ayrı-ayrı tərəflərinin incəliyinə qədər araşdırıldığı bu əsərdə oxucuya müasir dillə bir çox alternativlər təqdim edilir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 10,
+            "soldCount": 25,
+            "view": 150,
+            "comments": [
+                {
+                    "id": 601,
+                    "text": "Tarixi və irfani mövzuların gözəl sintezi."
+                },
+                {
+                    "id": 602,
+                    "text": "Müasir dillə yazılmış dərin məzmunlu əsər."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Raqif Raufoğlu",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................384"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "1984",
+            "author": "George Orwell",
+            "img": "https://www.libraff.az/images/from_1c/447ec35c-5053-11eb-a4d2-503eaa128442_1.jpg",
+            "price": "7.92 ₼",
+            "content": "George Orwellin '1984' romanı totalitarizm və fərdi azadlıqların məhdudlaşdırılması mövzusunu dərindən araşdırır. Əsər, gələcəkdəki distopik bir cəmiyyətin təsvirini verir və oxucunu düşündürür.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Elmi-fantastika"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 10,
+            "soldCount": 25,
+            "view": 150,
+            "comments": [
+                {
+                    "id": 801,
+                    "text": "Çox təsirli və düşündürücü bir əsərdir."
+                },
+                {
+                    "id": 802,
+                    "text": "Orwellin üslubu oxucunu dərhal cəlb edir."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................George Orwell",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................384"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Niyə Susursan, Polkovnik?",
+            "author": "Elxan Elatlı",
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/e6c543c8-48bc-11ee-a51a-503eaa120fc7_1.jpg.webp",
+            "price": "7.92 ₼",
+            "content": "Elxan Elatlı'nın 'Niyə Susursan, Polkovnik?' əsəri, insanın daxili dünyası ilə qarşı-qarşıya qalmasına səbəb olan bir hadisəni araşdırır. Kitab oxucunu düşündürür və həyatın təhlilini təklif edir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Psixoloji"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 12,
+            "soldCount": 30,
+            "view": 200,
+            "comments": [
+                {
+                    "id": 803,
+                    "text": "Çox maraqlı və düşündürücü bir kitab."
+                },
+                {
+                    "id": 804,
+                    "text": "Kitabın təhqiqatı və süjeti çox güclüdür."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Elxan Elatlı",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................384"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Şantaj",
+            "author": "Elxan Elatlı",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a0cb1feb-cefa-11ee-a54e-503eaa120fc7_1.jpg.webp",
+            "price": "9.52 ₼",
+            "content": "Elxan Elatlının 'Şantaj' romanı, universitetə qəbul olunaraq Bakıya gələn bir gənc qızın həyəcan dolu və gərgin hekayəsi ilə oxucuları özünə bağlayır. Əsər, gənclərin həyatındakı çətinliklər və sosial məsələləri əks etdirir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Dram",
+                "Gənclik romanı"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 10,
+            "soldCount": 25,
+            "view": 150,
+            "comments": [
+                {
+                    "id": 801,
+                    "text": "Çox təsirli və düşündürücü bir əsərdir."
+                },
+                {
+                    "id": 802,
+                    "text": "Elxan Elatlının üslubu oxucunu dərhal cəlb edir."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Elxan Elatlı",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................320"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Qəpiyim də yox idi, qız isə çox gözəl idi",
+            "author": "Dərviş Şəntəkin",
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/b08e268f-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "price": "9.50 ₼",
+            "content": "Dərviş Şəntəkin'in 'Qəpiyim də yox idi, qız isə çox gözəl idi' əsəri, sevgi, insan ruhu və həyatda qarşılaşılan çətinliklərə dair dərindən düşünməyə vadar edən bir əsərdir. Kitab oxucularına həm duyğusal, həm də həyatın mənası haqqında dərslər verir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Psixoloji"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 15,
+            "soldCount": 50,
+            "view": 300,
+            "comments": [
+                {
+                    "id": 805,
+                    "text": "Həyəcanlı və təsirli bir oxu təcrübəsi."
+                },
+                {
+                    "id": 806,
+                    "text": "Əsərin dilinin sadəliyi və duyğusal tərəfi çox yaxşıdır."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Dərviş Şəntəkin",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................256"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Portağal bağı",
+            "author": "Larry Tremblay",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/51117df4-3679-11ee-a519-503eaa120fc7_1.jpg.webp",
+            "price": "11.00 ₼",
+            "content": "Larry Tremblay'in 'Portağal bağı' əsəri, mədəniyyətlər arası qarşıdurmalar və insanların həyatını dəyişdirən amilləri təhlil edir. Əsər oxucusunu insanın daxili dünyasına daldırır və bir çox suallar verir.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Psixoloji"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 20,
+            "soldCount": 40,
+            "view": 250,
+            "comments": [
+                {
+                    "id": 807,
+                    "text": "Çox maraqlı və dərindən düşündürən bir kitab."
+                },
+                {
+                    "id": 808,
+                    "text": "Müxtəlif mədəniyyətləri araşdırmaq üçün yaxşı bir əsər."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Larry Tremblay",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................320"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Qardaş küləyi",
+            "author": "Larry Tremblay",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/9789952516273_1.jpg.webp",
+            "price": "12.50 ₼",
+            "content": "Larry Tremblay'in bu romanı qardaşlıq münasibətləri, itki və yaddaşın gücü haqqındadır. Dramatik hadisələrlə zəngin olan əsər, oxucunu dərin emosional təcrübəyə aparır.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Dram"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 15,
+            "soldCount": 30,
+            "view": 210,
+            "comments": [
+                {
+                    "id": 809,
+                    "text": "Çox təsirli bir hekayədir, mütləq oxunmalıdır."
+                },
+                {
+                    "id": 810,
+                    "text": "Müəllifin digər əsərləri kimi bu da yüksək səviyyədədir."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Larry Tremblay",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................288"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Adlarımızın ətri",
+            "author": "Larry Tremblay",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/9789952516778_1.jpg.webp",
+            "price": "10.80 ₼",
+            "content": "Tremblay'in 'Adlarımızın ətri' romanı kimlik, mənsubiyyət və ailə sirrləri kimi mövzuları incəliklə işləyir. Keçmişlə bu gün arasında gedən hadisələr, oxucunu intriqa dolu bir səyahətə çıxarır.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Mistik"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 25,
+            "soldCount": 35,
+            "view": 195,
+            "comments": [
+                {
+                    "id": 811,
+                    "text": "Kitabın atmosferi çox qəribə və maraqlıdır."
+                },
+                {
+                    "id": 812,
+                    "text": "Müəllifin üslubu həmişə fərqlidir."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Larry Tremblay",
+                "Nəşriyyat................Qanun Nəşriyyatı",
+                "Səhifə................256"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Kirpi Zərifliyi",
+            "author": "Muriel Barbery",
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/77a11b29-ecee-11ee-a54e-503eaa120fc7_1.jpg.webp",
+            "price": "14.20 ₼",
+            "content": "Muriel Barbery'nin 'Kirpi Zərifliyi' romanı Parisdəki bir binada yaşayan iki fərqli qadının - incə təfəkkürlü qapıçı Renée və ağıllı, lakin özünü gizlədən 12 yaşlı Paloma - hekayəsini təqdim edir. Təsadüfi bir hadisə bu iki qadının həyatını dəyişdirir və onlar arasında gözlənilməz bir dostluq yaranır. Roman, cəmiyyət, sinif fərqləri, incəsənət və həyatın mənasını dərinləməsinə araşdırır.",
+            "category": "Bədii ədəbiyyat",
+            "subcategory": [
+                "Roman",
+                "Fəlsəfi"
+            ],
+            "language": [
+                "AZ"
+            ],
+            "stockCount": 18,
+            "soldCount": 25,
+            "view": 175,
+            "comments": [
+                {
+                    "id": 813,
+                    "text": "Çox incə və düşüncəli bir roman."
+                },
+                {
+                    "id": 814,
+                    "text": "Qəhrəmanların daxili dünyası çox yaxşı təsvir edilib."
+                }
+            ],
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Muriel Barbery",
+                "Nəşriyyat................Alatoran Yayınları",
+                "Səhifə................416"
+            ]
+        }
+    ]
+}

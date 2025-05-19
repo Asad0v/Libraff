@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./output.css" rel="stylesheet">
+    <link rel="stylesheet" href="./src/input.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+</head>
+
+<body class="relative ">
+    <header class="px-3">
+        <nav class="flex md:hidden justify-between  py-[9px] ">
+            <div class="flex gap-2 justify-center items-center">
+                <i id="mobNav" class="fa-solid fa-bars"></i>
+                <img class="w-[100px]" src="img/logo.png" alt="Logo">
+            </div>
+            <div class="flex gap-2 justify-center items-center">
+                <i class="fa-regular fa-circle-user"></i>
+                <i onclick="showBasketPage()" class="cursor-pointer fa-solid fa-basket-shopping"></i>
+            </div>
+            <div id="mobileMenu"
+                class=" top-0 left-0 px-2 md:hidden absolute z-50 bg-white w-[100%] h-[100vh] duration-500 transition-all ">
+                <div class="flex justify-between items-center p-3">
+                    <select name="" id="">
+                        <option class="text-red-700" value="">AZ</option>
+                        <option class="text-red-700" value="">RU</option>
+                    </select>
+                    <i id="closeMenu" class="fa-solid fa-x"></i>
+                </div>
+                <hr class="text-gray-500 ">
+                <div class="pt-2">
+                    <div class="flex justify-between text-lg">
+                        <p class="text-gray-500 ">Əsas keçidlər</p>
+                        <span id="hyphen1" class="text-xl x  font-bold">+</span>
+                    </div>
+                    <div id="mainLink" class="text-left text-black hidden">
+                        <ul class="pl-1 text-md">
+                            <li>Bestseller</li>
+                            <li>Endirimlər</li>
+                            <li onclick="showAuthorsPage()">Müəlliflər</li>
+                            <li onclick="showKlassiks()">Klassiklər</li>
+                        </ul>
+                    </div>
+                </div>
+                <hr class="text-gray-500 ">
+                <div class="pt-2">
+                    <div class="flex justify-between text-lg">
+                        <p class="text-gray-500 ">Kataloq</p>
+                        <span id="hyphen2" class="text-xl font-bold">+</span>
+                    </div>
+                    <div id="mainLink2" class="text-left text-black hidden">
+                        <ul id="mobKtlqMenu" class="pl-1">
+
+                        </ul>
+                    </div>
+                </div>
+                <hr class="text-gray-500 ">
+                <div class="pt-2">
+                    <div class="flex justify-between text-lg">
+                        <p class="text-gray-500 ">Digər</p>
+                        <span id="hyphen3" class="text-xl  font-bold">+</span>
+                    </div>
+                    <div id="mainLink3" class="text-left text-black hidden">
+                        <ul class="pl-1">
+                            <li>Ödəniş və çatdırılma</li>
+                            <li>Loyallıq Kartı</li>
+                            <li>FAQ</li>
+                            <li>Əlaqə</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+        </nav>
+        <div
+            class="w-[100%] md:hidden h-[30px] text-center  items-center flex justify-between rounded-2xl text-sm p-3 bg-[#F8FAFC] border border-[#CBD5E1]">
+            <input class=" w-[95%]  " type="text" placeholder="Növbəti kitabınızı axtarın">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <nav class="container mx-auto hidden md:flex pt-8 px-[2%] justify-between">
+           
+            <img class="max-w-[175px] h-[50px]" src="./img/logo.png" alt="Logo Libraff">
+            <div class="flex justify-between items-center gap-[2%]">
+                <div id="clickKtlq"
+                    class="bg-[#EF3340] z-[100] cursor-pointer flex items-center justify-between gap-2 rounded-3xl px-3 h-12 text-white font-semibold">
+                    <span id="iconktlq"><i class="fa-solid fa-border-all"></i></span>
+                    <span class="hidden lg:flex">Kataloq</span>
+                </div>
+                <div
+                    class="w-[325px] lg:w-[460px] hidden md:flex h-[40px] text-center  items-center  justify-between rounded-3xl text-sm p-3 bg-[#F8FAFC] border-2 border-[#CBD5E1]">
+                    <input class="w-[100%]   " type="text" placeholder="Növbəti kitabınızı axtarın">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+            <div class="flex items-center gap-[5%]">
+                <select name="" id="">
+                    <option class="text-red-700" value="">AZ</option>
+                    <option class="text-red-700" value="">RU</option>
+                </select>
+                <div  id="userMenuButton" class="flex items-center relative justify-center gap-1 bg-[#F4F6FC] h-[40px] p-3 rounded-3xl">
+                    <i class="fa-regular fa-circle-user"></i>
+                    <span class="hidden lg:flex">Hesabım</span>
+                    <p class="hidden lg:flex"><i class="fa-solid fa-chevron-down "></i></p>
+                    <div id="userMenuDropdown"
+                        class="hidden absolute right-0 top-10 mt-2  w-72 bg-white rounded-2xl shadow-lg z-20">
+                         Menü bölmələri 
+                        <div class="p-4 border-b">
+                            <a href="#" class="block text-sm text-gray-800 hover:text-red-500 mb-2">Sifarişlər</a>
+                            <a href="#" class="block text-sm text-gray-800 hover:text-red-500 mb-2">Qaytarma
+                                sorğuları</a>
+                            <a href="#" class="block text-sm text-gray-800 hover:text-red-500">Seçilmişlər</a>
+                        </div>
+
+                        Sifarişi izləmək 
+                        <div class="px-4 py-3 border-b">
+                            <label class="block text-sm text-gray-600 mb-1">Sifarişi izləmək</label>
+                            <div class="flex items-center gap-2">
+                                <input type="text" placeholder="Sifariş nömrəsi/E-poçt"
+                                    class="flex-1 px-3 py-2 border rounded-md text-sm focus:outline-none focus:ring focus:ring-red-200" />
+                                <button class="text-gray-500 hover:text-gray-700">
+                                    ▶
+                                </button>
+                            </div>
+                        </div>
+
+                         Daxil ol / Qeydiyyat düymələri 
+                        <div class="flex justify-between px-4 py-3">
+                            <button class="bg-black text-white px-4 py-2 rounded-full text-sm hover:bg-gray-800">Daxil
+                                ol</button>
+                            <button
+                                class="bg-red-500 text-white px-4 py-2 rounded-full text-sm hover:bg-red-600">Qeydiyyat</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex gap-3 text-lg justify-center items-center">
+                    <i onclick="showWishListpage()" class="fa-regular fa-heart"></i>
+                    <div class="relative">
+                        <span id="basketCount" class="absolute right-[0px] top-[-20px] text-2xl font-semibold"></span>
+                        <i onclick="showBasketPage()" class="cursor-pointer text-red-500 text-xl hover:text-2xl hover:text-green-500 fa-solid fa-basket-shopping"></i>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="container mx-auto hidden md:flex justify-between items-center pt-10 px-[1%]">
+            <div class="text-[#334155] font-semibold flex gap-5">
+                <p class="hover:cursor-pointer">Bestseller</p>
+                <a href="https://www.libraff.az/kampaniyalar-az/"><p class="hover:cursor-pointer">Endirimlər</p></a>
+                <p onclick="showAuthorsPage()" class="hover:cursor-pointer">Müəlliflər</p>
+                <a ><p onclick="showKlassiks()" class="hover:cursor-pointer">Klassiklər</p></a>
+            </div>
+            <div class="flex gap-5">
+                <p class="hover:cursor-pointer">Ödəniş və çatdırılma</p>
+                <p class="hover:cursor-pointer">Loyallıq Kartı</p>
+                <p class="hover:cursor-pointer">FAQ</p>
+                <p class="hover:cursor-pointer">Əlaqə</p>
+            </div>
+        </div>
+        <div id="overlay" class="fixed top-0 left-0 w-full h-full bg-black opacity-50 hidden"></div>
+        <div id="ktlqDiv" class="flex h-[550px]  w-[95%] bg-white absolute z-[99]  text-sm shadow-2xl rounded-xl">
+            <div class="w-[25%] ">
+                <div
+                    class=" flex justify-between items-center hover:bg-[#F5F5F7] hover:*:last:text-red-500 cursor-pointer p-3 ">
+                    <span>Kitab</span> <i class="fa-solid fa-chevron-right text-gray-300 "></i>
+                </div>
+                <ul id="ktlqList"></ul>
+            </div>
+            <div class="w-[25%] bg-[#F5F5F7]">
+                <ul id="ktlqList2">
+
+                </ul>
+            </div>
+            <div class="w-[50%]">
+                <ul id="ktlqList3">
+
+                </ul>
+            </div>
+
+        </div>
+        <div class="swiper mySwiper z-0 mt-5">
+            <div id="sliderSw" class="swiper-wrapper">
+                <div class="swiper-slide"></div>
+                <div class="swiper-slide"></div>
+                <div class="swiper-slide"></div>
+                <div class="swiper-slide"></div>
+                <div class="swiper-slide"></div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </header>
+    <main class="px-8">
+        <div class="py-10 px-3">
+            <h2 class="text-[30px]"> Ən çox <span class="text-[#EE2D39]"> axtarılanlar</span></h2>
+            <div id="mostView" class="flex flex-wrap gap-3 justify-center py-10"></div>
+            <h2 class="text-[30px]"><span id="monthH2" class="text-[#EE2D39]"></span> bestsellerləri</h2>
+            <nav aria-label="breadcrumb" class="w-full py-4 ">
+                <ol class="flex h-8 space-x-2 text-[17px] font-semibold">
+                    <li class="flex items-center">
+                        <a rel="noopener noreferrer" href="#" title="Back to homepage"
+                            class="flex items-center hover:underline">Azərbaycan</a>
+                    </li>
+                    <li class="flex items-center space-x-1">
+                        <a rel="noopener noreferrer" href="#"
+                            class="flex items-center px-1 capitalize text-[#767676] hover:underline">Türk</a>
+                    </li>
+                    <li class="flex items-center space-x-1">
+                        <a rel="noopener noreferrer" href="#"
+                            class="flex items-center px-1 capitalize text-[#767676] hover:underline">Rus</a>
+                    </li>
+                    <li class="flex items-center space-x-1">
+                        <a rel="noopener noreferrer" href="#"
+                            class="flex items-center px-1 capitalize text-[#767676] hover:underline  cursor-default">Uşaq ədəbiyyatı</a>
+                    </li>
+                </ol>
+            </nav>
+            <div id="bestSelCard" class="flex flex-wrap gap-3 justify-center"></div>
+            
+            
+        </div>
+    </main>
+    <footer></footer>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="./js/script.js" type="module"></script>
+
+    <script type="module">
+        let swiper = new Swiper(".mySwiper", {
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            loop: true,
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
